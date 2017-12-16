@@ -1,6 +1,7 @@
 import items
 import world
 
+
 class Player:
 	def __init__(self):
 		self.inventory = [items.Rock(),
