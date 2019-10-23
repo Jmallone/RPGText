@@ -1,8 +1,8 @@
 # RPGText
 Um jogo simples de rpg baseado em texto 
 
-## Requisitos
+## Requisitos:
 	- Python 3.x
 
-## Como executar
+## Como executar:
 	- python game.py
